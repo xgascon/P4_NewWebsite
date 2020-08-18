@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "kingthings";
+    src: url(../fonts/Kingthings_Petrock_light.eot);
+    src: url(../fonts/Kingthings_Petrock_light.otf) format('embedded-opentype'), url(../fonts/Kingthings_Petrock_light.woff) format('woff'), url(../fonts/Kingthings_Petrock_light.ttf) format('truetype'), url(../fonts/Kingthings_Petrock_light.svg) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
